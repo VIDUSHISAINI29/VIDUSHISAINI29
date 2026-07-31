@@ -1,130 +1,74 @@
-<div align="center">
-
-# Vidushi Saini
-
-### Building products with curiosity, craftsmanship, and code.
-
-<br>
-
-**Full-Stack Engineering** · **Backend Systems** · **Data Science**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=3000&color=6EA8FE&center=true&vCenter=true&width=650&lines=Building+Pulse.;Designing+backend+systems.;Learning+Data+Science.;Mastering+Java+DSA." />
-
-</div>
-
----
-
-# About
-
-I enjoy building software from first principles—designing databases, architecting APIs, and creating products that solve real problems.
-
-My current interests lie at the intersection of **backend engineering**, **product development**, and **data science**. I'm always learning, always building, and always refining my craft through real-world projects.
-
----
-
-# Selected Work
-
-| Project        | Focus                                                                            |
-| :------------- | :------------------------------------------------------------------------------- |
-| **Pulse**      | API monitoring platform with scheduling, workers, logging, and observability.    |
-| **StreeStore** | Modern e-commerce platform focused on scalability and clean architecture.        |
-| **AfterRead**  | Reflection-first reading application designed for long-term knowledge retention. |
-
----
-
-# Skills
-
-### Engineering
-
-`REST APIs`
-`Backend Development`
-`Frontend Development`
-`Authentication`
-`Authorization`
-`Database Design`
-`Clean Architecture`
-`Repository Pattern`
-`Background Workers`
-`Caching`
-`Search`
-`Scheduling`
-`Error Tracking`
-`API Monitoring`
-`Performance Optimization`
-
-### Data
-
-`Python`
-`SQL`
-`Pandas`
-`Polars`
-`DuckDB`
-`Data Cleaning`
-`EDA`
-`Data Visualization`
-
-### Practices
-
-`Git`
-`Docker`
-`Testing`
-`Debugging`
-`Code Reviews`
-`Documentation`
-`Problem Solving`
-
----
-
-# Tech Stack
-
-### PEVN
-
-| Layer        | Technologies                                         |
-| :----------- | :--------------------------------------------------- |
-| **Frontend** | Vue.js · TypeScript · Tailwind CSS · PrimeVue · Vite |
-| **Backend**  | Node.js · Express.js                                 |
-| **Database** | PostgreSQL                                           |
-| **Caching**  | Redis                                                |
-| **Queue**    | BullMQ                                               |
-
-### Ecosystem
-
-Cloudflare · Better Auth · Docker · GitHub · Meilisearch · Sentry · Coolify · Postman
-
----
-
-# Current Focus
-
-* Building production-ready software
-* Learning Data Science through projects
-* Strengthening Java DSA
-* Studying System Design
-* Writing cleaner, simpler code
-
----
-
-# GitHub
+<h1 align="center">Hi 👋, I'm Vidushi Saini</h1>
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VIDUSHISAINI29&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDUSHISAINI29&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Products+That+Matter;Learning+Data+Science;Java+%7C+Node.js+%7C+Vue.js" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=VIDUSHISAINI29&theme=github-dark&hide_border=true"/>
-
+  <b>Full-Stack Developer • Product Builder • Backend Enthusiast</b><br>
+  Building software that solves real problems.
 </p>
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-*"Great software isn't built overnight. It's built one thoughtful commit at a time."*
+- 🔭 Building SaaS products
+- 🌱 Currently learning **Data Science & DSA**
+- 💡 I enjoy turning ideas into products instead of tutorial clones.
+- ⚡ Motto: **Learn → Build → Share → Repeat**
 
-</div>
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![Vue](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 AfterRead
+Reflection-first reading application that helps readers retain knowledge.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=VIDUSHISAINI29&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 💭 Philosophy
+
+> **"Learning becomes valuable when it turns into something people can use."**
+
+Every repository here is part of my journey to become a better engineer by building real products.
+
+---
+
+## 🤝 Connect
+
+- 💼 LinkedIn: *https://www.linkedin.com/in/vidushi-saini-436053204/*
+- 🌐 Portfolio: *https://vidushisaini.triorockets.com/*
+- 🐦 X: *https://x.com/_VIDUSHI_SAINI*
+
+⭐ Thanks for visiting! If you like my work, consider starring a repository.
