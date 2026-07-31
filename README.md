@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidushi Saini</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Products+That+Matter;Learning+Data+Science;Java+%7C+Node.js+%7C+Vue.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Products+That+Matter;Learning+Data+Science;" />
 </p>
 
 <p align="center">
