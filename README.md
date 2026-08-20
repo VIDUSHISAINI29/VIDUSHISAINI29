@@ -1,74 +1,306 @@
-<h1 align="center">Hi 👋, I'm Vidushi Saini</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Products+That+Matter;Learning+Data+Science;" />
-</p>
+<br>
 
-<p align="center">
-  <b>Full-Stack Developer • Product Builder • Backend Enthusiast</b><br>
-  Building software that solves real problems.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,40:2CB67D,110:FF8906&height=190&section=header&text=VIDUSHI%20SAINI&fontSize=52&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn&desc=building%20things%20I%20wish%20existed&descAlignY=78&descSize=18"  width="100%"/>
 
----
+<br>
 
-## 🚀 About Me
+### `full-stack developer`  ·  `product builder`  ·  `curious learner`
 
-- 🔭 Building SaaS products
-- 🌱 Currently learning **Data Science & DSA**
-- 💡 I enjoy turning ideas into products instead of tutorial clones.
-- ⚡ Motto: **Learn → Build → Share → Repeat**
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=VIDUSHISAINI29\&style=flat-square\&color=7F5AF0)](https://github.com/VIDUSHISAINI29)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
 
-### Frontend
-![Vue](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## I like turning **"what if?"** into **"it works."**
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+</div>
 
-### Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge)
+I build products to understand ideas.
+
+Sometimes that means designing a backend, sometimes cleaning millions of rows of data, sometimes figuring out why something broke at 2 AM.
+
+I don't particularly enjoy building things just to say *"I built it."*
+
+I like building things that make me think.
 
 ---
 
-## 🚀 Featured Projects
+<br>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### `01 / NOW`
+
+**Currently somewhere between**
+
+→ building products
+→ exploring Data Science
+→ getting better at Java & DSA
+→ understanding backend architecture
+→ wondering how to make the next thing better
+
+</td>
+
+<td width="45%" valign="top">
+
+### `02 / THE RULE`
+
+> **Learn it.**
+>
+> **Build it.**
+>
+> **Break it.**
+>
+> **Understand it.**
+>
+> **Build it better.**
+
+</td>
+</tr>
+</table>
+
+---
+
+<br>
+
+## `03 / THINGS I'VE BEEN BUILDING`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📡 Pulse
+
+**API Monitoring**
+
+A monitoring platform for keeping an eye on APIs, background jobs and system health.
+
+`Node.js` `Redis` `PostgreSQL`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛍️ StreeStore
+
+**E-commerce**
+
+A full-stack commerce platform designed around a clean and scalable architecture.
+
+`Vue` `TypeScript` `Node.js`
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 📚 AfterRead
-Reflection-first reading application that helps readers retain knowledge.
+
+**Reading · Reflection**
+
+A place for the thoughts that happen *after* finishing a book.
+
+`Vue` `TypeScript` `Backend`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**more experiments → more repositories → more things to break**
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<br>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=VIDUSHISAINI29&theme=tokyonight&hide_border=true"/>
-</p>
+## `04 / MY WORKBENCH`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ I BUILD WITH
+
+<img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,vite,nodejs,express,postgres,redis,docker&perline=5" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 I WORK ON
+
+`REST APIs` · `Authentication`
+`Database Design` · `Background Jobs`
+`Clean Architecture` · `API Monitoring`
+`Caching` · `Search` · `Error Tracking`
+`Data Cleaning` · `EDA` · `SQL Analytics`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💭 Philosophy
+## `05 / DATA CORNER`
 
-> **"Learning becomes valuable when it turns into something people can use."**
+I recently started going deeper into the world of data.
 
-Every repository here is part of my journey to become a better engineer by building real products.
+Not just notebooks and charts — I'm interested in the entire journey:
+
+**raw data → cleaning → transformation → analysis → insight**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python&perline=1" />
+
+<br><br>
+
+`Pandas`  ·  `Polars`  ·  `DuckDB`  ·  `SQL`
+
+</div>
 
 ---
 
-## 🤝 Connect
+<br>
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/vidushi-saini-436053204/*
-- 🌐 Portfolio: *https://vidushisaini.triorockets.com/*
-- 🐦 X: *https://x.com/_VIDUSHI_SAINI*
+## `06 / PEVN`
 
-⭐ Thanks for visiting! If you like my work, consider starring a repository.
+<div align="center">
+
+### **P**ostgreSQL   ·   **E**xpress   ·   **V**ue   ·   **N**ode
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=postgres,express,vue,nodejs&perline=4" />
+
+</div>
+
+<br>
+
+Alongside the core stack, I've been working with:
+
+`TypeScript` `Tailwind` `PrimeVue` `Redis` `BullMQ`
+`Better Auth` `Meilisearch` `Sentry` `Cloudflare` `Coolify`
+
+---
+
+<br>
+
+## `07 / THINGS I'M LEARNING`
+
+<table>
+<tr>
+<td align="center">
+
+### ☕ Java
+
+DSA
+Problem Solving
+Algorithms
+
+</td>
+
+<td align="center">
+
+### 📊 Data Science
+
+Python
+Data Analysis
+Statistics
+
+</td>
+
+<td align="center">
+
+### 🏗️ Systems
+
+System Design
+Scalability
+Distributed Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+<br>
+
+## `08 / GITHUB, BUT MAKE IT DATA`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VIDUSHISAINI29&show_icons=true&hide_border=true&bg_color=00000000&title_color=7F5AF0&icon_color=FF8906&text_color=94A1B2" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDUSHISAINI29&layout=compact&hide_border=true&bg_color=00000000&title_color=7F5AF0&text_color=94A1B2" height="165"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=VIDUSHISAINI29&hide_border=true&background=00000000&ring=7F5AF0&fire=FF8906&currStreakLabel=7F5AF0&sideLabels=94A1B2&dates=94A1B2" />
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+## `09 / A LITTLE MORE HUMAN`
+
+I'm also into books, ideas, and conversations that make me look at familiar things differently.
+
+I like learning things that **change the way I think**, not just things that add another item to my resume.
+
+<br>
+
+### currently reading · building · learning · questioning
+
+</div>
+
+---
+
+<br>
+
+## `10 / FIND ME`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vidushi-saini-436053204/">
+<img src="https://img.shields.io/badge/LinkedIn-16161A?style=for-the-badge&logo=linkedin&logoColor=7F5AF0"/>
+</a>
+
+<a href="https://x.com/_VIDUSHI_SAINI">
+<img src="https://img.shields.io/badge/X-16161A?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://vidushi.triorockets.com/">
+<img src="https://img.shields.io/badge/Portfolio-16161A?style=for-the-badge&logo=googlechrome&logoColor=2CB67D"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `still building.`
+
+**Thanks for wandering through my corner of GitHub.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8906,50:7F5AF0,100:2CB67D&height=100&section=footer" width="100%"/>
+
+</div>
